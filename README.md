@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asraf shaikh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **E-commerce web site**
 
-- 🌱 I’m currently learning **redux toolkit**
+
+
 
 - 💬 Ask me about **MERN Stack,Java**
 
